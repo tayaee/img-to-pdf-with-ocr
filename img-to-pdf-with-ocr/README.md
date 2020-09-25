@@ -9,7 +9,8 @@ Convert images to PDF with OCR enabled..
     * <code>mvn clean package -DskipTests</code>
   * Test
     * <code>img-to-pdf-with-ocr.bat testdata\test.png</code>
-  * Check the output testdata\test.pdf
+  * Check the output pdf.
+    * testdata\test.pdf
   * Copy the following two files to a path that is available in PATH variable
     * img-to-pdf-with-ocr.bat
     * target\img-to-pdf-with-ocr-1.0-SNAPSHOT-jar-with-dependencies.jar
