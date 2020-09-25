@@ -6,7 +6,7 @@ Convert images to PDF with OCR enabled..
   * Install Java SDK 1.8+
   * Maven 3.x
   * Build it
-    * <code>build.bat</code>
+    * <code>mvn clean package -DskipTests</code>
   * Test
     * <code>img-to-pdf-with-ocr.bat testdata\test.png</code>
   * Check the output testdata\test.pdf
