@@ -3,8 +3,7 @@ Convert images to PDF with OCR enabled..
 
 # Build
   * Use Java SDK 1.8+ and Maveen 3+ for build.  
-  * Build it
-    * <code>mvn clean package -DskipTests</code>
+  * Build it <code>mvn clean package -DskipTests</code>
     
 # Install
   * Install the latest OCR engine from https://digi.bib.uni-mannheim.de/tesseract/. The 'tessdata' directory from this installation is referred by img-to-pdf-with-ocr.
