@@ -5,4 +5,4 @@ Merge multiple pdf files into a pdf.
 * mvn clean package -DskipTests
 
 # Enjoy! 
-* merge-pdf.bat ..\output.pdf *.pdf
+* Usage: merge-pdf.bat ..\output.pdf *.pdf
