@@ -15,8 +15,7 @@ Convert images to PDF with OCR enabled..
     * img-to-pdf-with-ocr.bat
     * target\img-to-pdf-with-ocr-1.0-SNAPSHOT-jar-with-dependencies.jar
 # Enjoy!
-  * img-to-pdf-with-ocr *.png
-  * img-to-pdf-with-ocr *.jpg
+  * Usage: img-to-pdf-with-ocr.bat *.png *.jpg
 
 # Thanks
   * This code is based https://itextpdf.com/en/blog/technical-notes/how-use-itext-pdfocr-recognize-text-scanned-documents
