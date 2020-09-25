@@ -2,7 +2,7 @@
 Merge multiple pdf files into a pdf.
 
 # Build
-* mvn clean package -DskipTests
+* <code>mvn clean package -DskipTests</code>
 
 # Install
 * Copy the following files into a path that is available in PATH variable
@@ -10,4 +10,4 @@ Merge multiple pdf files into a pdf.
   * target\merge-pdf-1.0-SNAPSHOT-jar-with-dependencies.jar
 
 # Enjoy! 
-* Usage: merge-pdf.bat ..\output.pdf *.pdf
+* Usage: <code>merge-pdf.bat ..\output.pdf *.pdf</code>
