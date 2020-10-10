@@ -8,8 +8,8 @@ Convert images to PDF with OCR enabled..
 # Install
   * Install the latest OCR engine from https://digi.bib.uni-mannheim.de/tesseract/. The 'tessdata' directory from this installation is referred by img-to-pdf-with-ocr.
   * Copy the following two files to a path that is available in PATH variable
-    * copy img-to-pdf-with-ocr.bat <YOUR-BIN>\
-    * copy target\img-to-pdf-with-ocr-1.0-SNAPSHOT-jar-with-dependencies.jar <YOUR-BIN>\
+    * copy img-to-pdf-with-ocr.bat YOUR-BIN\
+    * copy target\img-to-pdf-with-ocr-1.0-SNAPSHOT-jar-with-dependencies.jar YOUR-BIN\
     
 # Enjoy!
   * Usage: <code>img-to-pdf-with-ocr.bat *.png *.jpg</code>
